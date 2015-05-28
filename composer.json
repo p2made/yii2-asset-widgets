@@ -1,0 +1,21 @@
+{
+    "name": "p2made/yii2-asset-widgets",
+    "description": "asset-widgets",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Plowman",
+            "email": "p2opensource@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "p2made\\widgets\\": ""
+        }
+    }
+}
