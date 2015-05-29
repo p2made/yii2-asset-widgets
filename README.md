@@ -1,4 +1,4 @@
-P2AssetWidgets v0.0.1
+P2AssetWidgets v0.0.2
 =====================
 
 CSS & JS resources wrapped as Yii 2 Widgets.

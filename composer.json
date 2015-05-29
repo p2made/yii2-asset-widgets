@@ -1,6 +1,5 @@
 {
     "name": "p2made/yii2-asset-widgets",
-    "name": "p2made/yii2-asset-collection",
     "description": "CSS & JS resources wrapped as Yii 2 Widgets.",
     "type": "yii2-extension",
     "keywords": [
@@ -25,7 +24,7 @@
         }
     ],
 
-    "version": "0.0.1",
+    "version": "0.0.2",
     "minimum-stability": "dev",
 
     "require": {
